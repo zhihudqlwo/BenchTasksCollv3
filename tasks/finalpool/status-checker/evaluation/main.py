@@ -1,4 +1,4 @@
-# Evaluation script for status-checker g#7
+# Evaluation script for status-checker
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

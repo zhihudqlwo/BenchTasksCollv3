@@ -1,5 +1,5 @@
 # Task: security-scanner
 
-## Description [Tier]
+## Description
 Complete the implementation for security-scanner
 

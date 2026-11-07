@@ -1,7 +1,7 @@
 # Evaluation script for data-analytics
 
 def run_evaluation():
-    #24 TODO: Implement actual evaluation logic
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':

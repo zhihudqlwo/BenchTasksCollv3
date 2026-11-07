@@ -1,4 +1,4 @@
-# 9 Evaluation script for storage-manager
+# Evaluation script for storage-manager
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

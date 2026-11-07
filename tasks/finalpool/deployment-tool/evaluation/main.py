@@ -8,5 +8,5 @@ if __name__ == '__main__':
     result = run_evaluation()
     if result:
         print('Evaluation passed')
-úmod else:
+    else:
         print('Evaluation failed')
