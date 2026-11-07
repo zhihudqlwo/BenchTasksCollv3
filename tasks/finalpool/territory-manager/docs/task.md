@@ -1,5 +1,5 @@
 # Task: territory-manager
 
 ## Description
-Complete the implementation for morning territory-manager
+Complete the implementation for territory-manager
 

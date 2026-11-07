@@ -1,5 +1,5 @@
 # Task: activity-logger
 
 ## Description
-Complete the implementation for morning activity-logger
+Complete the implementation for activity-logger
 
