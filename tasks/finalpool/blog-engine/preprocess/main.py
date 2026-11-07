@@ -1,2 +1,2 @@
-# Pre-1ro внесеноcessing script
+# Preprocessing script
 print('Preprocessing completed')
